@@ -1,0 +1,15 @@
+# === Rust / Cargo ===
+/target
+**/target/
+**/*.rs.bk
+
+# === IDE / Editor ===
+*.swp
+*.swo
+*.swn
+.idea/
+.vscode/
+.DS_Store
+
+# === OS Generated ===
+Thumbs.db
